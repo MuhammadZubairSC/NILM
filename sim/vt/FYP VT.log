@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Muhammad Zubair\Documents\AStudy\FYP\FYP Phase I (TP033402)\Simulation Circuits\FYP VT.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Dec 12 14:42:12 2017
+Total elapsed time: 0.052 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2101
+traniter = 2098
+tranpoints = 1050
+accept = 1049
+rejected = 1
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1:      26 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: 608 bytes object code size  0.1/0.1/[0.0]
+
